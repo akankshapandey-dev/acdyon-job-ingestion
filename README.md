@@ -24,6 +24,13 @@ JobPulse is a FastAPI-based job ingestion application that fetches remote job li
 - HTML
 - CSS
 - JavaScript
+## How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/akankshapandey-dev/acdyon-job-ingestion.git
+cd acdyon-job-ingestion
 
 ## Project Structure
 
